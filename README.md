@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indra-321&label=Profile%20views&color=0e75b6&style=flat" alt="indra-321" /> </p>
 
-- 🌱 I’m currently learning: **Batchlor of computer application (BCA)**
+- 🌱 I’m currently Pursuing:- **Batchlor of computer application (BCA)**
 
 - 📫 How to reach me **indrajeetkumarb6750@gmail.com**
 
